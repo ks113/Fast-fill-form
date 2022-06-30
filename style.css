@@ -36,7 +36,7 @@ body {
     padding: 10px;
 }
 
-.field-name input, .field-email input, .field-contact input, .field-country input, .field-password input {
+.field-name input, .field-email input, .field-contact input, .field-country input, .field-password input, .field-finish input {
     background: none;
     border: none;
     flex: 1;
